@@ -4,6 +4,10 @@ Welcome to my personal blog website, a place where I can freely express my thoug
 ![Capture111](https://user-images.githubusercontent.com/128981674/231527238-07eba74c-78d2-4f29-9e8d-f5966eb7defa.PNG)
 
 
+![bloggs](https://user-images.githubusercontent.com/128981674/231528835-dfd1c785-d806-4be4-add8-d088ecaacd7c.PNG)
+
+
+![ddddda](https://user-images.githubusercontent.com/128981674/231529113-431e3376-a87a-45cf-be70-df58b87ec72c.PNG)
 
 
 
