@@ -1,4 +1,7 @@
+const express = require("express");
+const mongoose = require("mongoose");
 
+const app = express();
 
 // ! connect to the mongodb database...
 mongoose.connect(
